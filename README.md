@@ -34,7 +34,7 @@ The system promotes efficient resource utilization through automated farm manage
 
 The Smart Quail Cage IoT system was implemented and tested in **Kertamulya Village, Indonesia**, as part of a community-based smart farming initiative.
 
-![Implementation Location](images/kertamulya_map.png)
+![Implementation Location](images/kertamulya_map.jpg)
 
 ## Features
 
